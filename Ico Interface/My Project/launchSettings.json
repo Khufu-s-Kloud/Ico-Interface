@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Ico Interface": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\Common7\\IDE\\Blend.exe",
+      "workingDirectory": "C:\\Users\\rdonn\\Desktop\\appCreation"
+    }
+  }
+}

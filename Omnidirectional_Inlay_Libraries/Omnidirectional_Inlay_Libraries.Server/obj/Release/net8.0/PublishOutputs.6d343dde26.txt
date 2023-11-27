@@ -1,0 +1,12 @@
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\Omnidirectional_Inlay_Libraries.Server.exe
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\Omnidirectional_Inlay_Libraries.Server.dll
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\Omnidirectional_Inlay_Libraries.Server.deps.json
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\Omnidirectional_Inlay_Libraries.Server.runtimeconfig.json
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\Omnidirectional_Inlay_Libraries.Server.pdb
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rdonn\source\repos\Ico Interface\Omnidirectional_Inlay_Libraries\Omnidirectional_Inlay_Libraries.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

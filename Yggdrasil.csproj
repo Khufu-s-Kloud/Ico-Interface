@@ -1,0 +1,108 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{ACE3559A-DAF1-4E55-9246-72B92430A647}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>WindowsApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Yggdrasil</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
+    <None Include=".idea\.gitignore" />
+    <None Include=".vs\Ico Interface\config\applicationhost.config" />
+    <None Include=".vs\Ico Interface\DesignTimeBuild\.dtbcache.v2" />
+    <None Include=".vs\Ico Interface\v16\.suo" />
+    <None Include=".vs\slnx.sqlite" />
+    <None Include=".vs\VSWorkspaceState.json" />
+    <None Include="Ico Interface\bin\Debug\netcoreapp3.1\Ico Interface.deps.json" />
+    <None Include="Ico Interface\bin\Debug\netcoreapp3.1\Ico Interface.runtimeconfig.dev.json" />
+    <None Include="Ico Interface\bin\Debug\netcoreapp3.1\Ico Interface.runtimeconfig.json" />
+    <None Include="Ico Interface\Ico Interface.vbproj" />
+    <None Include="Ico Interface\My Project\app.manifest" />
+    <None Include="Ico Interface\My Project\launchSettings.json" />
+    <None Include="Ico Interface\obj\Debug\netcoreapp3.1\Ico Interface.AssemblyInfoInputs.cache" />
+    <None Include="Ico Interface\obj\Debug\netcoreapp3.1\Ico Interface.assets.cache" />
+    <None Include="Ico Interface\obj\Debug\netcoreapp3.1\Ico Interface.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="Ico Interface\obj\Debug\netcoreapp3.1\Ico Interface.genruntimeconfig.cache" />
+    <None Include="Ico Interface\obj\Debug\netcoreapp3.1\Ico Interface.vbproj.AssemblyReference.cache" />
+    <None Include="Ico Interface\obj\Debug\netcoreapp3.1\Ico Interface.vbproj.CoreCompileInputs.cache" />
+    <None Include="Ico Interface\obj\Ico Interface.vbproj.nuget.dgspec.json" />
+    <None Include="Ico Interface\obj\Ico Interface.vbproj.nuget.g.props" />
+    <None Include="Ico Interface\obj\Ico Interface.vbproj.nuget.g.targets" />
+    <None Include="Ico Interface\obj\project.assets.json" />
+    <None Include="Ico Interface\obj\project.nuget.cache" />
+    <None Include="Ico Interface\obj\Release\netcoreapp3.1\Ico Interface.AssemblyInfoInputs.cache" />
+    <None Include="Ico Interface\obj\Release\netcoreapp3.1\Ico Interface.assets.cache" />
+    <None Include="Ico Interface\obj\Release\netcoreapp3.1\Ico Interface.GeneratedMSBuildEditorConfig.editorconfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".idea\misc.xml" />
+    <Content Include=".idea\workspace.xml" />
+    <Content Include="Ico Interface\Atom.vb" />
+    <Content Include="Ico Interface\bin\Debug\netcoreapp3.1\Ico Interface.dll" />
+    <Content Include="Ico Interface\bin\Debug\netcoreapp3.1\Ico Interface.exe" />
+    <Content Include="Ico Interface\bin\Debug\netcoreapp3.1\Ico Interface.pdb" />
+    <Content Include="Ico Interface\IArithmetic.vb" />
+    <Content Include="Ico Interface\LanguageExt\TypeClasses\Arithmetic.vb" />
+    <Content Include="Ico Interface\Microsoft.vb" />
+    <Content Include="Ico Interface\My Project\Resources.Designer.vb" />
+    <Content Include="Ico Interface\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.vb" />
+    <Content Include="Ico Interface\obj\Debug\netcoreapp3.1\apphost.exe" />
+    <Content Include="Ico Interface\obj\Debug\netcoreapp3.1\Ico Interface.AssemblyInfo.vb" />
+    <Content Include="Ico Interface\obj\Debug\netcoreapp3.1\Ico Interface.dll" />
+    <Content Include="Ico Interface\obj\Debug\netcoreapp3.1\Ico Interface.pdb" />
+    <Content Include="Ico Interface\obj\Debug\netcoreapp3.1\Ico Interface.vbproj.FileListAbsolute.txt" />
+    <Content Include="Ico Interface\obj\Debug\netcoreapp3.1\TempPE\My Project.Resources.Designer.vb.dll" />
+    <Content Include="Ico Interface\obj\Release\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.vb" />
+    <Content Include="Ico Interface\obj\Release\netcoreapp3.1\Ico Interface.AssemblyInfo.vb" />
+    <Content Include="Ico Interface\Program.vb" />
+    <Content Include="Ico Interface\System.ContextMarshalException.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Ico Interface\My Project\Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".vs\Yggdrasil\v17\" />
+    <Folder Include="Ico Interface\bin\Release\netcoreapp3.1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

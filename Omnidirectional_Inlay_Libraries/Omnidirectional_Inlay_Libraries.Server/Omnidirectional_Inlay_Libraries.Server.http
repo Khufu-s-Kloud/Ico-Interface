@@ -1,0 +1,6 @@
+@Omnidirectional_Inlay_Libraries.Server_HostAddress = http://localhost:5006
+
+GET {{Omnidirectional_Inlay_Libraries.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

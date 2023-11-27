@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "hg9rT01JpAlcNhVUjYBwAMSdf99OmV8DOs3ASpg83IM=",
+  "Source": "Omnidirectional_Inlay_Libraries.Server",
+  "BasePath": "_content/Omnidirectional_Inlay_Libraries.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\rdonn\\source\\repos\\Ico Interface\\Omnidirectional_Inlay_Libraries\\omnidirectional_inlay_libraries.client\\omnidirectional_inlay_libraries.client.esproj",
+      "Version": 2,
+      "Source": "omnidirectional_inlay_libraries.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

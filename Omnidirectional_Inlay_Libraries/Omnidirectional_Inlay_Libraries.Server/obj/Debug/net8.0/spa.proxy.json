@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\rdonn\\source\\repos\\Ico Interface\\Omnidirectional_Inlay_Libraries\\Omnidirectional_Inlay_Libraries.Server\\..\\omnidirectional_inlay_libraries.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

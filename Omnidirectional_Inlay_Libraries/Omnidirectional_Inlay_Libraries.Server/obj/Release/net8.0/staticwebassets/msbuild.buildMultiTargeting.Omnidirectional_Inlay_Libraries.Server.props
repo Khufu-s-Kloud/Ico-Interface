@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Omnidirectional_Inlay_Libraries.Server.props" />
+</Project>
